@@ -1,3 +1,34 @@
+<!-- Repository Overview Badges -->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=ffca28">
+  <img src="https://img.shields.io/github/forks/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=00aaff">
+  <img src="https://img.shields.io/github/watchers/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=00e676">
+</div>
+
+<!-- Issue & PR -->
+<div align="center">
+  <img src="https://img.shields.io/github/issues/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=ea4335">
+  <img src="https://img.shields.io/github/issues-pr/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=ff9100">
+</div>
+
+<!-- Activity -->
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=673ab7">
+  <img src="https://img.shields.io/github/contributors/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=388e3c">
+  <img src="https://img.shields.io/github/repo-size/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=303f9f">
+</div>
+
+<!-- Languages -->
+<div align="center">
+  <img src="https://img.shields.io/github/languages/count/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=607d8b">
+  <img src="https://img.shields.io/github/languages/top/arpsn123/EdgeVision?style=for-the-badge&logo=github&logoColor=white&color=4caf50">
+</div>
+
+<!-- Status -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Maintenance-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
 # EdgeVision
 
 ## A Distributed IoT-Based Real-Time Object Detection and Tracking System Using YOLOv8 and Mobile Camera Nodes
