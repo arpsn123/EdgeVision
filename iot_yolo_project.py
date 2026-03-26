@@ -42,7 +42,7 @@ cv2.destroyAllWindows()  # ends all OpenCV windows
 # %%
 # same thing just the live webcam feed replaced with a IOT Device LIVE IP FEED
 
-url = "http://192.168.29.83:8080/video"
+url = "http://PHONE_IP/ROUTER_IP:8080/video"
 cap = cv2.VideoCapture(url)
 if not cap.isOpened():
     print("Cannot open stream")
