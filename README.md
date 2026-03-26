@@ -295,10 +295,17 @@ This project demonstrates how modern computer vision models can be integrated in
 It highlights the importance of combining machine learning with networking, systems engineering, and real-time processing to build scalable and impactful solutions.
 
 Raw Feed : 
-https://github.com/user-attachments/assets/d41275ec-e6f9-4c0c-8303-901a93ecfdc1
+
+
+https://github.com/user-attachments/assets/43fae221-fbd8-4bc4-a1ff-965db8e7317e
+
+
 
 Annotated Feed :
-https://github.com/user-attachments/assets/2a7f41b2-80b6-483b-87ce-3deba11bdb86
+
+
+
+https://github.com/user-attachments/assets/128a5860-2223-4679-b5f7-7fa9e63ce290
 
 
 ---
